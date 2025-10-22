@@ -1,1 +1,1 @@
-kodaks
+kodak
